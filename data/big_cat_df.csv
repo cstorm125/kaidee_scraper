@@ -1,0 +1,147 @@
+cat_name,cat_url,sub_cat_name,sub_cat_url
+phone_device,https://www.kaidee.com/c29-phone_device/,โทรศัพท์มือถือ,https://www.kaidee.com/c89-phone_device-mobilephone/
+phone_device,https://www.kaidee.com/c29-phone_device/,แท็บเล็ต,https://www.kaidee.com/c83-phone_device-tablet/
+phone_device,https://www.kaidee.com/c29-phone_device/,อุปกรณ์เสริมมือถือ แท็บเล็ต,https://www.kaidee.com/c90-phone_device-accessories_simcard/
+phone_device,https://www.kaidee.com/c29-phone_device/,อุปกรณ์สื่อสารอื่น,https://www.kaidee.com/c91-phone_device-other_device/
+computer,https://www.kaidee.com/c27-computer/,คอมพิวเตอร์ตั้งโต๊ะ,https://www.kaidee.com/c81-computer-pc/
+computer,https://www.kaidee.com/c27-computer/,โน๊ตบุ๊ค,https://www.kaidee.com/c82-computer-notebook/
+computer,https://www.kaidee.com/c27-computer/,Printer Scanner,https://www.kaidee.com/c84-computer-printer_scanner/
+computer,https://www.kaidee.com/c27-computer/,อุปกรณ์คอมพิวเตอร์อื่นๆ,https://www.kaidee.com/c85-computer-other_it/
+music,https://www.kaidee.com/c60-music/,กีต้าร์,https://www.kaidee.com/c208-music-guitar/
+music,https://www.kaidee.com/c60-music/,อูคูเลเล่,https://www.kaidee.com/c209-music-ukulele/
+music,https://www.kaidee.com/c60-music/,เปียโน,https://www.kaidee.com/c210-music-piano/
+music,https://www.kaidee.com/c60-music/,คีย์บอร์ด,https://www.kaidee.com/c211-music-keyboard/
+music,https://www.kaidee.com/c60-music/,กลอง,https://www.kaidee.com/c212-music-drum/
+music,https://www.kaidee.com/c60-music/,เครื่องดนตรีไทย,https://www.kaidee.com/c213-music-thai_music_instrument/
+music,https://www.kaidee.com/c60-music/,เครื่องดนตรีอื่น ๆ,https://www.kaidee.com/c214-music-others_music_instrument/
+music,https://www.kaidee.com/c60-music/,อุปกรณ์เครื่องดนตรี,https://www.kaidee.com/c215-music-accessories_music_instrument/
+sport,https://www.kaidee.com/c61-sport/,เครื่องออกกำลังกาย,https://www.kaidee.com/c216-sport-exercise_ machine/
+sport,https://www.kaidee.com/c61-sport/,อุปกรณ์กีฬา,https://www.kaidee.com/c217-sport-sport_equipment/
+sport,https://www.kaidee.com/c61-sport/,ชุดกีฬา,https://www.kaidee.com/c218-sport-sportwear/
+sport,https://www.kaidee.com/c61-sport/,รองเท้ากีฬา,https://www.kaidee.com/c219-sport-sportshoes/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานเสือหมอบ,https://www.kaidee.com/c198-bicycles-road_bike/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานเสือภูเขา,https://www.kaidee.com/c199-bicycles-mountain_bike/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานไฮบริด,https://www.kaidee.com/c200-bicycles-hybrid_bike/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานฟิกเกียร์,https://www.kaidee.com/c124-bicycles-fixed_gear/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยาน BMX,https://www.kaidee.com/c201-bicycles-bmx/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานทัวร์ริ่ง,https://www.kaidee.com/c202-bicycles-touring_bike/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานพับ,https://www.kaidee.com/c203-bicycles-folding_bike/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานแม่บ้าน,https://www.kaidee.com/c204-bicycles-utility_bike/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานโบราณ,https://www.kaidee.com/c205-bicycles-classic_bike/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานไฟฟ้า,https://www.kaidee.com/c206-bicycles-electric_bike/
+bicycles,https://www.kaidee.com/c123-bicycles/,จักรยานอื่นๆ,https://www.kaidee.com/c125-bicycles-other_bicycles/
+bicycles,https://www.kaidee.com/c123-bicycles/,อุปกรณ์นักปั่น,https://www.kaidee.com/c126-bicycles-bicycle_accessories/
+bicycles,https://www.kaidee.com/c123-bicycles/,อะไหล่ และอุปกรณ์ตกแต่ง,https://www.kaidee.com/c207-bicycles-part_accessories/
+mom_and_kid,https://www.kaidee.com/c130-mom_and_kid/,เสื้อผ้าเด็ก,https://www.kaidee.com/c131-mom_and_kid-clothing/
+mom_and_kid,https://www.kaidee.com/c130-mom_and_kid/,รองเท้าเด็ก,https://www.kaidee.com/c141-mom_and_kid-children_shoes/
+mom_and_kid,https://www.kaidee.com/c130-mom_and_kid/,เสื้อผ้าคนท้อง,https://www.kaidee.com/c142-mom_and_kid-maternity_wear/
+mom_and_kid,https://www.kaidee.com/c130-mom_and_kid/,ของใช้แม่และเด็ก,https://www.kaidee.com/c132-mom_and_kid-accessory/
+mom_and_kid,https://www.kaidee.com/c130-mom_and_kid/,ของเล่นเด็ก,https://www.kaidee.com/c140-mom_and_kid-baby_toys/
+bag,https://www.kaidee.com/c95-bag/,กระเป๋าสะพาย,https://www.kaidee.com/c178-bag-shoulder_bags/
+bag,https://www.kaidee.com/c95-bag/,กระเป๋าถือ,https://www.kaidee.com/c179-bag-handbags/
+bag,https://www.kaidee.com/c95-bag/,กระเป๋าสตางค์,https://www.kaidee.com/c180-bag-wallets_bags/
+bag,https://www.kaidee.com/c95-bag/,กระเป๋าเป้ เดินทาง,https://www.kaidee.com/c181-bag-travel_bags/
+bag,https://www.kaidee.com/c95-bag/,กระเป๋าอื่นๆ,https://www.kaidee.com/c182-bag-other_bags/
+bag,https://www.kaidee.com/c95-bag/,อุปกรณ์และอะไหล่กระเป๋า,https://www.kaidee.com/c279-bag-bag_accessories_and_parts/
+watch,https://www.kaidee.com/c99-watch/,นาฬิกาผู้หญิง,https://www.kaidee.com/c183-watch-women_watches/
+watch,https://www.kaidee.com/c99-watch/,นาฬิกาผู้ชาย,https://www.kaidee.com/c185-watch-men_watches/
+watch,https://www.kaidee.com/c99-watch/,นาฬิกาอื่นๆ,https://www.kaidee.com/c299-watch-other_watches/
+watch,https://www.kaidee.com/c99-watch/,อุปกรณ์และอะไหล่นาฬิกา,https://www.kaidee.com/c300-watch-watches_accessories_and_parts/
+shoes,https://www.kaidee.com/c96-shoes/,รองเท้าผู้ชาย,https://www.kaidee.com/c128-shoes-men/
+shoes,https://www.kaidee.com/c96-shoes/,รองเท้าผู้หญิง,https://www.kaidee.com/c127-shoes-ladies/
+shoes,https://www.kaidee.com/c96-shoes/,อุปกรณ์และอะไหล่รองเท้า,https://www.kaidee.com/c298-shoes-shoe_accessories_and_part/
+fashion,https://www.kaidee.com/c5-fashion/,เสื้อผ้า,https://www.kaidee.com/c33-fashion-cloth/
+fashion,https://www.kaidee.com/c5-fashion/,เครื่องแต่งกาย,https://www.kaidee.com/c34-fashion-accessories/
+fashion,https://www.kaidee.com/c5-fashion/,แว่นตา,https://www.kaidee.com/c98-fashion-eyeglasses/
+fashion,https://www.kaidee.com/c5-fashion/,เครื่องประดับ,https://www.kaidee.com/c35-fashion-jewelry/
+beauty_health,https://www.kaidee.com/c6-beauty_health/,อุปกรณ์เกี่ยวกับสุขภาพ,https://www.kaidee.com/c153-beauty_health-medical_device/
+beauty_health,https://www.kaidee.com/c6-beauty_health/,น้ำหอม,https://www.kaidee.com/c160-beauty_health-perfume/
+beauty_health,https://www.kaidee.com/c6-beauty_health/,อุปกรณ์เสริมสวย,https://www.kaidee.com/c38-beauty_health-beauty_tools/
+appliances_decoration,https://www.kaidee.com/c3-appliances_decoration/,เฟอร์นิเจอร์,https://www.kaidee.com/c22-appliances_decoration-furniture/
+appliances_decoration,https://www.kaidee.com/c3-appliances_decoration/,ของใช้ในบ้าน,https://www.kaidee.com/c26-appliances_decoration-household_appliances/
+appliances_decoration,https://www.kaidee.com/c3-appliances_decoration/,ของแต่งบ้าน,https://www.kaidee.com/c23-appliances_decoration-construction_design/
+appliances_decoration,https://www.kaidee.com/c3-appliances_decoration/,วัสดุก่อสร้าง,https://www.kaidee.com/c186-appliances_decoration-construction_materials/
+appliances_decoration,https://www.kaidee.com/c3-appliances_decoration/,ตกแต่งสวน,https://www.kaidee.com/c25-appliances_decoration-gardening/
+appliances_decoration,https://www.kaidee.com/c3-appliances_decoration/,อุปกรณ์และเครื่องมือช่าง,https://www.kaidee.com/c296-appliances_decoration-accessories_and_tool_suppliers/
+amulet,https://www.kaidee.com/c57-amulet/,พระเหรียญ,https://www.kaidee.com/c112-amulet-medal/
+amulet,https://www.kaidee.com/c57-amulet/,พระเบญจภาคี,https://www.kaidee.com/c161-amulet-pra_benjapakee/
+amulet,https://www.kaidee.com/c57-amulet/,พระกริ่ง,https://www.kaidee.com/c162-amulet-pra_kring/
+amulet,https://www.kaidee.com/c57-amulet/,พระกรุ,https://www.kaidee.com/c163-amulet-pra_kru/
+amulet,https://www.kaidee.com/c57-amulet/,พระบูชา,https://www.kaidee.com/c113-amulet-statue/
+amulet,https://www.kaidee.com/c57-amulet/,พระเกจิ,https://www.kaidee.com/c164-amulet-pra_geji/
+amulet,https://www.kaidee.com/c57-amulet/,พระปิดตา,https://www.kaidee.com/c165-amulet-pra_pidta/
+amulet,https://www.kaidee.com/c57-amulet/,จตุคามรามเทพ,https://www.kaidee.com/c114-amulet-jatukarm/
+amulet,https://www.kaidee.com/c57-amulet/,พระเครื่องอื่น,https://www.kaidee.com/c116-amulet-other_amulet/
+amulet,https://www.kaidee.com/c57-amulet/,เครื่องราง ของมงคล,https://www.kaidee.com/c115-amulet-talisman/
+amulet,https://www.kaidee.com/c57-amulet/,สังฆภัณฑ์ งานพิธี,https://www.kaidee.com/c150-amulet-monk_supplies/
+collection,https://www.kaidee.com/c103-collection/,สแตมป์,https://www.kaidee.com/c235-collection-stamp/
+collection,https://www.kaidee.com/c103-collection/,เหรียญ ธนบัตร,https://www.kaidee.com/c236-collection-coin_note/
+collection,https://www.kaidee.com/c103-collection/,ของเก่า ของโบราณ,https://www.kaidee.com/c237-collection-antique_vintage/
+collection,https://www.kaidee.com/c103-collection/,งานศิลปะ โมเดล,https://www.kaidee.com/c238-collection-art_model/
+collection,https://www.kaidee.com/c103-collection/,ของสะสมอื่นๆ,https://www.kaidee.com/c239-collection-others_collectible/
+cameras,https://www.kaidee.com/c28-cameras/,กล้องดิจิตอล,https://www.kaidee.com/c86-cameras-digital_camera/
+cameras,https://www.kaidee.com/c28-cameras/,กล้องวิดีโอ,https://www.kaidee.com/c135-cameras-video_camera/
+cameras,https://www.kaidee.com/c28-cameras/,กล้องอื่นๆ,https://www.kaidee.com/c136-cameras-others_camera/
+cameras,https://www.kaidee.com/c28-cameras/,เลนส์,https://www.kaidee.com/c87-cameras-lens/
+cameras,https://www.kaidee.com/c28-cameras/,อุปกรณ์เสริมกล้อง อื่น ๆ,https://www.kaidee.com/c88-cameras-other_camera_accessories/
+electric,https://www.kaidee.com/c70-electric/,แอร์,https://www.kaidee.com/c75-electric-airconditioner/
+electric,https://www.kaidee.com/c70-electric/,ตู้เย็น,https://www.kaidee.com/c76-electric-refrigerator/
+electric,https://www.kaidee.com/c70-electric/,ทีวี โฮมเธียเตอร์,https://www.kaidee.com/c77-electric-tv_hometheater/
+electric,https://www.kaidee.com/c70-electric/,เครื่องซักผ้า,https://www.kaidee.com/c78-electric-washingmachine/
+electric,https://www.kaidee.com/c70-electric/,เคเบิ้ล จานดาวเทียม,https://www.kaidee.com/c79-electric-cable_satellite/
+electric,https://www.kaidee.com/c70-electric/,เครื่องใช้ไฟฟ้าอื่น,https://www.kaidee.com/c80-electric-other_electric/
+game,https://www.kaidee.com/c31-game/,เครื่องเกมส์,https://www.kaidee.com/c176-game-game_console/
+game,https://www.kaidee.com/c31-game/,อุปกรณ์เกมส์อื่นๆ,https://www.kaidee.com/c177-game-games_cd/
+game,https://www.kaidee.com/c31-game/,บอร์ดเกมส์,https://www.kaidee.com/c301-game-board_games/
+pet,https://www.kaidee.com/c62-pet/,สุนัข,https://www.kaidee.com/c220-pet-dog/
+pet,https://www.kaidee.com/c62-pet/,แมว,https://www.kaidee.com/c221-pet-cat/
+pet,https://www.kaidee.com/c62-pet/,ปลา,https://www.kaidee.com/c222-pet-fish/
+pet,https://www.kaidee.com/c62-pet/,หนู,https://www.kaidee.com/c223-pet-mouse/
+pet,https://www.kaidee.com/c62-pet/,นก,https://www.kaidee.com/c224-pet-bird/
+pet,https://www.kaidee.com/c62-pet/,ไก่,https://www.kaidee.com/c225-pet-chicken/
+pet,https://www.kaidee.com/c62-pet/,กระต่าย,https://www.kaidee.com/c226-pet-rabbit/
+pet,https://www.kaidee.com/c62-pet/,สัตว์เลี้ยงอื่นๆ,https://www.kaidee.com/c227-pet-other_pets/
+pet,https://www.kaidee.com/c62-pet/,อุปกรณ์สำหรับสัตว์เลี้ยง,https://www.kaidee.com/c228-pet-pet_accessories/
+pet,https://www.kaidee.com/c62-pet/,อาหารสัตว์,https://www.kaidee.com/c229-pet-pet_food/
+lifestyle,https://www.kaidee.com/c10-lifestyle/,หนังสือ,https://www.kaidee.com/c59-lifestyle-book/
+lifestyle,https://www.kaidee.com/c10-lifestyle/,หนังและเพลง,https://www.kaidee.com/c58-lifestyle-movie_song/
+lifestyle,https://www.kaidee.com/c10-lifestyle/,กิ๊ฟช็อป งานฝีมือ,https://www.kaidee.com/c65-lifestyle-giftshop/
+lifestyle,https://www.kaidee.com/c10-lifestyle/,ของเล่น,https://www.kaidee.com/c64-lifestyle-toy/
+lifestyle,https://www.kaidee.com/c10-lifestyle/,บัตรเข้าชม คูปอง,https://www.kaidee.com/c66-lifestyle-voucher/
+job_business_service,https://www.kaidee.com/c7-job_business_service/,อุตสาหกรรม,https://www.kaidee.com/c40-job_business_service-industry/
+job_business_service,https://www.kaidee.com/c7-job_business_service/,ธุรกิจอาหาร,https://www.kaidee.com/c243-job_business_service-food/
+job_business_service,https://www.kaidee.com/c7-job_business_service/,แฟรนไชส์,https://www.kaidee.com/c41-job_business_service-franchise/
+job_business_service,https://www.kaidee.com/c7-job_business_service/,ขาย เซ้งกิจการ,https://www.kaidee.com/c244-job_business_service-business_for_sale/
+job_business_service,https://www.kaidee.com/c7-job_business_service/,ธุรกิจอื่น ๆ,https://www.kaidee.com/c245-job_business_service-others_business/
+job_business_service,https://www.kaidee.com/c7-job_business_service/,อุปกรณ์สำนักงาน,https://www.kaidee.com/c43-job_business_service-office_equipment/
+job_business_service,https://www.kaidee.com/c7-job_business_service/,งาน,https://www.kaidee.com/c39-job_business_service-job/
+business_service,https://www.kaidee.com/c45-business_service/,บริการด้านยานยนต์,https://www.kaidee.com/c14-business_service-auto_service/
+business_service,https://www.kaidee.com/c45-business_service/,บริการบ้านและสวน,https://www.kaidee.com/c24-business_service-home_care/
+business_service,https://www.kaidee.com/c45-business_service/,บริการสำหรับสัตว์เลี้ยง,https://www.kaidee.com/c184-business_service-animal_service/
+business_service,https://www.kaidee.com/c45-business_service/,ซ่อมและบริการสินค้าไอที,https://www.kaidee.com/c32-business_service-it_service/
+business_service,https://www.kaidee.com/c45-business_service/,ซ่อมและบริการสินค้าแฟชั่น,https://www.kaidee.com/c255-business_service-fashion_service/
+business_service,https://www.kaidee.com/c45-business_service/,บริการด้านสุขภาพและความงาม,https://www.kaidee.com/c256-business_service-beauty_service/
+business_service,https://www.kaidee.com/c45-business_service/,บริการเกี่ยวกับแม่และเด็ก,https://www.kaidee.com/c257-business_service-nursery/
+business_service,https://www.kaidee.com/c45-business_service/,บัญชี กฎหมาย,https://www.kaidee.com/c258-business_service-accounting_lawyer_translation/
+business_service,https://www.kaidee.com/c45-business_service/,ประกันภัย,https://www.kaidee.com/c259-business_service-finance_insurance/
+business_service,https://www.kaidee.com/c45-business_service/,ขนส่ง ชิปปิ้ง,https://www.kaidee.com/c260-business_service-logistics_messenger/
+business_service,https://www.kaidee.com/c45-business_service/,อีเว้นท์,https://www.kaidee.com/c44-business_service-event/
+business_service,https://www.kaidee.com/c45-business_service/,ดูดวง,https://www.kaidee.com/c261-business_service-horoscope/
+business_service,https://www.kaidee.com/c45-business_service/,บริการอื่น ๆ,https://www.kaidee.com/c262-business_service-other_service/
+travel,https://www.kaidee.com/c9-travel/,ทัวร์ในประเทศ,https://www.kaidee.com/c50-travel-tour_thai/
+travel,https://www.kaidee.com/c9-travel/,ทัวร์ต่างประเทศ,https://www.kaidee.com/c51-travel-tour_abroad/
+travel,https://www.kaidee.com/c9-travel/,ที่พัก,https://www.kaidee.com/c52-travel-hotel_resort/
+travel,https://www.kaidee.com/c9-travel/,ตั๋วเดินทาง,https://www.kaidee.com/c55-travel-ticket/
+travel,https://www.kaidee.com/c9-travel/,อุปกรณ์ท่องเที่ยว,https://www.kaidee.com/c117-travel-travel_accessories/
+travel,https://www.kaidee.com/c9-travel/,บริการ เดินทาง,https://www.kaidee.com/c56-travel-other_service/
+travel,https://www.kaidee.com/c9-travel/,ร้านอาหาร,https://www.kaidee.com/c54-travel-restaurant/
+education,https://www.kaidee.com/c8-education/,กวดวิชา,https://www.kaidee.com/c46-education-tutor/
+education,https://www.kaidee.com/c8-education/,สอนภาษา,https://www.kaidee.com/c47-education-language_tutoring/
+education,https://www.kaidee.com/c8-education/,อบรม,https://www.kaidee.com/c48-education-training/
+education,https://www.kaidee.com/c8-education/,เรียนต่อต่างประเทศ,https://www.kaidee.com/c49-education-study_abroad/
+education,https://www.kaidee.com/c8-education/,อุปกรณ์การเรียนการสอน,https://www.kaidee.com/c102-education-media_education/
+education,https://www.kaidee.com/c8-education/,หนังสือเรียน,https://www.kaidee.com/c297-education-text_book/
+donation,https://www.kaidee.com/c283-donation/,บริจาคเสื้อผ้า,https://www.kaidee.com/c284-donation-clothing/
+donation,https://www.kaidee.com/c283-donation/,บริจาคเครื่องใช้ไฟฟ้า,https://www.kaidee.com/c285-donation-electronic/
+donation,https://www.kaidee.com/c283-donation/,บริจาคเฟอร์นิเจอร์,https://www.kaidee.com/c286-donation-furniture/
+donation,https://www.kaidee.com/c283-donation/,บริจาคอื่น ๆ,https://www.kaidee.com/c287-donation-other_donation/
