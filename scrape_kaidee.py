@@ -45,7 +45,7 @@ for _,row in df.iterrows():
                 #skip if doesn't exist
                 if (listing.find('meta') is None) or (listing.find('img') is None): continue
                 #dict
-                listing_name = ' '.join(listing.find('img')['alt'].split(' ')[1:])
+                listing_name = listing.find('img')['alt']
                 listing_url = f"https://www.kaidee.com{listing['href']}"
                 listing_price = listing.find('meta', itemprop='price')['content']
                 listing_region = listing.find('meta', itemprop='addressRegion')['content']
