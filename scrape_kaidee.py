@@ -24,7 +24,7 @@ def get_soup(url):
 
 #parameters
 max_pages = 800
-idx = [0,1,10,20,21] 
+idx = [10] #[0,1,10,20,21] 
 cat_df = pd.read_csv(f'{data_path}cat_df.csv')
 big_cat_df = pd.read_csv(f'{data_path}big_cat_df.csv')
 df = big_cat_df.merge(cat_df.iloc[idx,:1],how='inner')
@@ -38,13 +38,14 @@ for _,row in df.iterrows():
     listing_dicts = []
     for i in trange(max_pages):
         for condition in [1,2]: #new and old
-            #get soup of listing page
             page = get_soup(f'{sub_cat_url}p-{i+1}?condition={condition}')
             listings = page.find_all('a',class_='crow')
             #iterate through all listings
-            for listing in listings[:-1]:
+            for listing in listings:
+                #skip if doesn't exist
+                if (listing.find('meta') is None) or (listing.find('img') is None): continue
                 #dict
-                listing_name = listing.find('h3').get_text()
+                listing_name = ' '.join(listing.find('img')['alt'].split(' ')[1:])
                 listing_url = f"https://www.kaidee.com{listing['href']}"
                 listing_price = listing.find('meta', itemprop='price')['content']
                 listing_region = listing.find('meta', itemprop='addressRegion')['content']
